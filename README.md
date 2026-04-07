@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 PPA – Project Management Mastery Landing Page
 
-## Getting Started
+A high-performance, pixel-perfect landing page built to convert.  
+Designed with modern UI/UX principles and powered by **Next.js 15**, **Tailwind CSS**, and **Framer Motion**, this project showcases advanced frontend engineering and interactive storytelling.
 
-First, run the development server:
+🔗 **Live Demo:** https://ppa-ashy.vercel.app/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Key Features
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- 🎯 **Pixel-Perfect Design**  
+  Carefully crafted UI following premium, high-end design standards.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🎬 **Dynamic Animations**  
+  Smooth, scroll-triggered animations that re-trigger for an engaging experience.
 
-## Learn More
+- ⚡ **Optimized Performance**  
+  Built with Next.js App Router, optimized images, and zero layout shifts (CLS).
 
-To learn more about Next.js, take a look at the following resources:
+- 📱 **Fully Responsive**  
+  Seamless experience across mobile, tablet, and ultra-wide screens.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🧠 **Clean Architecture**  
+  Modular components and structured data for scalability.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- 🔤 **Premium Typography**  
+  SF Pro Display integration for a modern, Apple-inspired look.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠️ Tech Stack
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Framework:** Next.js 15 (App Router)
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Deployment:** Vercel
+
+---
+
+## 📂 Project Structure
